@@ -31,9 +31,13 @@ Desenvolver um classificador binário de aprendizado de máquina para prever se 
 
 ## Organização dos Arquivos
 ├── data/
+
 │   └── bodyPerformance.csv
+
 ├── notebooks/
+
 │   └── projeto_final.ipynb
+
 └── README.md
 
 ## Como Abrir e Executar no Google Colab
