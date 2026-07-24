@@ -1,7 +1,7 @@
 # Classificação de Desempenho Físico: Abordagem Linear Bidimensional
 
 ## Objetivo
-Desenvolver um classificador binário de aprendizado de máquina para prever se um indivíduo possui desempenho físico acima ou abaixo da média. O projeto foca na utilização de duas variáveis biológicas (percentual de gordura e contagem de abdominais) para criar uma fronteira de decisão linear bidimensional, garantindo total interpretabilidade geométrica.
+Desenvolver um classificador binário de aprendizado de máquina para prever se um indivíduo possui desempenho físico acima ou abaixo da média. O foco do projeto é a utilização de duas variáveis biológicas (percentual de gordura e contagem de abdominais) para criar uma fronteira de decisão linear bidimensional, garantindo total interpretabilidade geométrica.
 
 ## Integrantes
 * Josan Silva dos Santos Junior
@@ -56,7 +56,9 @@ Desenvolver um classificador binário de aprendizado de máquina para prever se 
 https://drive.google.com/file/d/1x6YwPUwP7jCqvBPEJsKUI0o8al7-qwQ2/view?usp=drivesdk
 
 ## Declaração de Uso de Inteligência Artificial
-Declaramos o uso de ferramentas de Inteligência Artificial neste trabalho:
-* **Ferramenta utilizada:** ChatGPT (OpenAI) e Gemini (Google).
-* **Finalidade:** Geração de snippets para visualização de dados (Matplotlib/Seaborn), auxílio na formulação matemática da fronteira de decisão e revisão dos textos interpretativos.
-* **Verificação:** Todo o código gerado foi revisado, testado exaustivamente e ajustado manualmente no Google Colab. As interpretações teóricas, as justificativas metodológicas e a análise dos gráficos foram elaboradas, validadas e compreendidas por todos os integrantes do grupo.
+Em conformidade com o item 8 das diretrizes do projeto, declaramos o uso de ferramentas de Inteligência Artificial neste trabalho:
+
+* **Ferramentas utilizadas:** ChatGPT (OpenAI) e Gemini (Google).
+* **Finalidade:** Geração de código-base estrutural, elaboração de rotinas para visualização de dados (gráficos), auxílio na formulação teórica das justificativas metodológicas e revisão do roteiro de apresentação.
+* **Parte do trabalho em que foi utilizada:** As IAs foram aplicadas, sob supervisão, nas seções de Análise Exploratória (para plotagem rápida dos gráficos), Pré-processamento e Modelagem (na construção do pipeline do Scikit-Learn), além da estruturação deste arquivo README e do roteiro do vídeo.
+* **Forma de verificação do conteúdo ou código produzido:** Todo o código gerado foi inspecionado linha a linha, testado e ajustado manualmente no Google Colab para garantir a ausência de vazamento de dados e o correto funcionamento. Os textos explicativos, defesas técnicas e roteiros gerados foram lidos, criticados e modificados pelo grupo, garantindo domínio completo sobre o conteúdo e a interpretação geométrica dos resultados apresentados.
