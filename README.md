@@ -53,7 +53,7 @@ Desenvolver um classificador binário de aprendizado de máquina para prever se 
 * **Sarah Beatriz:** Treinamento dos algoritmos, avaliação das métricas (Matriz de Confusão, Relatório de Classificação) e plotagem da avaliação geométrica final da fronteira de decisão.
 
 ## Vídeo de Apresentação
-[]
+https://drive.google.com/file/d/1x6YwPUwP7jCqvBPEJsKUI0o8al7-qwQ2/view?usp=drivesdk
 
 ## Declaração de Uso de Inteligência Artificial
 Declaramos o uso de ferramentas de Inteligência Artificial neste trabalho:
